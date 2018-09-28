@@ -1,0 +1,21 @@
+REMEMBER DOC!!!!
+
+Dynamic scaling
+
+"Scale"
+
+-'Spin up' new servers/instances
+manages app across multiple servers.
+
+Can manage peaks and valleys more
+
+TO CONNECT TO DATABASE
+
+allowpublickeyretrieval=true
+
+JPA- requires an empty constructor.
+
+Maven- update maven- Force Update.
+(right click on project) 
+
+SQL user- MUST USE sp_user (instead of springuser).
